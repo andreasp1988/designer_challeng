@@ -82,7 +82,7 @@ header a {
 .idea p {
     width: 53%;
     font-size: 1.2rem;
-    line-height: 40px;
+    line-height: 45px;
 }
 
 /* ----EMOJIS---- */
@@ -93,9 +93,10 @@ header a {
 .emojis div {
     margin: 5% auto;
     width: 59%;
-    line-height: 25px;
+    line-height: 40px;
     position: relative;
     font-size: 1.2rem;
+    color: #0b0c17;
 }
 .emojis img {
     width: 7%;
